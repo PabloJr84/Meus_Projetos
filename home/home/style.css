@@ -1,0 +1,39 @@
+body{
+    color: white;
+    background: linear-gradient(120deg,#0f0e0dd8, #000000);
+    font-family: Arial, Helvetica, sans-serif;
+}
+ul{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    list-style-type: none;
+    padding: 26px;
+}
+a{
+
+    color: rgb(247, 162, 5);
+    text-decoration: none;
+}
+
+img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 5px solid rgb(114, 226, 92);
+}
+
+.center {
+    text-align: center;
+}
+
+h1 {
+    color: greenyellow;
+}
+
+div{
+    color: rgb(224, 233, 233);
+    text-align: center;
+    margin-left:auto;
+
+}
