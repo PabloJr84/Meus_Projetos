@@ -17,10 +17,11 @@ a{
 }
 
 img {
+    margin: 90px;
     width: 150px;
     height: 150px;
-    border-radius: 50%;
-    border: 5px solid rgb(218, 221, 15);
+    border-radius: 70%;
+    border: 15px solid #dadd0f;
 }
 
 .center {
@@ -40,6 +41,20 @@ div{
 p{
     text-align: center;
     text-decoration: none;
-    color: rgb(255, 255, 255);
-    
+    color: rgb(255, 255, 255);   
 }
+
+
+  .menu {
+    background-color: #ffffff;
+    overflow: hidden;
+  }
+  .menu a {
+    color: rgb(21, 9, 187);
+    padding: 14px 25px;
+    text-decoration: none;
+    float: left;
+  }
+  .menu a:hover {
+    background-color: #dadd0f;;
+  }
