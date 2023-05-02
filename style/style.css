@@ -1,7 +1,7 @@
 body{
     color: white;
-    background: linear-gradient(120deg,#0f0e0dd8, #000000);
     font-family: Arial, Helvetica, sans-serif;
+    background-image: linear-gradient(to right, rgb(20, 147, 220), rgb(17, 54, 71));
 }
 ul{
     display: flex;
@@ -20,7 +20,7 @@ img {
     width: 150px;
     height: 150px;
     border-radius: 50%;
-    border: 5px solid rgb(114, 226, 92);
+    border: 5px solid rgb(218, 221, 15);
 }
 
 .center {
@@ -28,7 +28,7 @@ img {
 }
 
 h1 {
-    color: greenyellow;
+    color: rgb(255, 255, 255);
 }
 
 div{
@@ -40,6 +40,6 @@ div{
 p{
     text-align: center;
     text-decoration: none;
-    color: greenyellow;
+    color: rgb(255, 255, 255);
     
 }
